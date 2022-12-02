@@ -1,0 +1,13 @@
+.App{
+    background-color: bisque;
+    position: absolute;
+    height: 100%;
+    width: 100vw;
+    text-align: center;
+    top: 0px;
+    left: 0px;
+}
+.conta{
+    align-items: center;
+    padding-top: 110px;
+}

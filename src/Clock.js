@@ -17,7 +17,7 @@ const Clock = () => {
 
     useEffect(() => {
         setInterval(refreash, 1000)
-    })
+    },[])
     return (
         <div>
             <div style={{ textAlign: "center", fontSize: "400px", alignItems: "center", color: 'white', height: "100vh" }}>
